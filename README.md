@@ -1,10 +1,9 @@
-<div>
-<h2>Hi, I'm Yves!  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
-</div>
+
+## Hi, I'm Yves!   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>   A little more about me...  
 
-I've been working in the software industry for 16 years (since 2008), building and scaling web and mobile applications. 
+I've been working in the software industry for **16 years** (since 2008), building and scaling web and mobile applications. 
 
 ✨ In 2015, **I co-founded Conpass**, a SaaS startup focused on user onboarding, where I was the sole developer in the early stages, building the product from scratch. As the company grew, I hired and led a team of 4-6 developers and 1 designer, ensuring a robust, scalable, and high-performance platform. **Conpass was later acquired after impacting over 3 million users in 1,000+ companies.**
 
