@@ -1,28 +1,28 @@
+# Hi, I'm Yves! `<img src="assets/emojis/WavingHandMediumLightSkinTone.png" width="29px">`
 
-# Hi, I'm Yves!  <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="29px">
+### `<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>` A little more about me...
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>   A little more about me...  
-
-I've been working in the software industry for **16 years** (since 2008), building and scaling web and mobile applications. 
+I've been working in the software industry for **16 years** (since 2008), building and scaling web and mobile applications.
 
 ✨ In 2015, **I co-founded Conpass**, a SaaS startup focused on user onboarding, where I was the sole developer in the early stages, building the product from scratch. As the company grew, I hired and led a team of 4-6 developers and 1 designer, ensuring a robust, scalable, and high-performance platform. **Conpass was later acquired after impacting over 3 million users in 1,000+ companies.**
 
 🌱 Since 2019, I have been working as a consultant and freelancer, helping startups and lean teams scale their products and infrastructure. Working with companies across different industries like SaaS, fintech, e-commerce, and AI-driven platforms.
 
-### 🔹 I specialize in: 
+### 🔹 I specialize in:
+
 - Full-stack development;
 - Software architecture;
 - API integrations;
-- Automation, and
+- Automation;
 - Cloud computing.
-  
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"> I thrive in fast-paced, high-growth environments and enjoy collaborating with teams that value clean code, strong engineering practices, and a user-first mindset. My entrepreneurial background and hands-on experience allow me to deliver scalable and high-impact solutions that align with business goals.
+#### `<img src="assets/emojis/ManTechnologistLightSkinTone.png" width="20">`
+
+I thrive in fast-paced, high-growth environments and enjoy collaborating with teams that value clean code, strong engineering practices, and a user-first mindset. My entrepreneurial background and hands-on experience allow me to deliver scalable and high-impact solutions that align with business goals.
 
 😄 I'm passionate about AI, automation, and user engagement strategies. Always open to exciting projects, global opportunities, and connecting with like-minded professionals!
 
-
-## Tech Stack & Expertise  <img src="assets/images/Comet.png" width="30">
+## Tech Stack & Expertise `<img src="assets/emojis/Rocket.png" width="20">`
 
 Frontend: React.js, Next.js, TypeScript, React Native, Vue.js, AngularJS, Material UI, TailwindCSS
 
@@ -30,28 +30,9 @@ Backend: Node.js, Nest.js, Express, Python, FastAPI, Flask, Prisma, C#, Java, Gr
 
 Databases: PostgreSQL, MongoDB, Redis, NoSQL, SQL
 
-Cloud & DevOps: AWS, Google Cloud, Azure, Docker, Nginx, Microservices, CI/CD
+Cloud & DevOps: AWS, Google Cloud, Azure, Docker, Nginx, Microservices, CI/CD, Supabase, Firebase
 
 Other Skills: Git (GitHub, GitLab, Bitbucket), TDD, SaaS, Kanban, Scrum, SDLC, Chrome Extensions, N8N
- 
-
-<!--
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-
-## Hi there 👋 
-**yvesas/yvesas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![Linkedin: yvesas](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yvesas/)](https://www.linkedin.com/in/yvesas/)
--->
 
 <!--
 <div data-badges>
