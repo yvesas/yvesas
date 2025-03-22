@@ -1,5 +1,5 @@
 
-## Hi, I'm Yves!   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+# Hi, I'm Yves!  <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="29px">
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>   A little more about me...  
 
@@ -15,13 +15,14 @@ I've been working in the software industry for **16 years** (since 2008), buildi
 - API integrations;
 - Automation, and
 - Cloud computing.
+  
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"> I thrive in fast-paced, high-growth environments and enjoy collaborating with teams that value clean code, strong engineering practices, and a user-first mindset. My entrepreneurial background and hands-on experience allow me to deliver scalable and high-impact solutions that align with business goals.
 
 😄 I'm passionate about AI, automation, and user engagement strategies. Always open to exciting projects, global opportunities, and connecting with like-minded professionals!
 
 
-### 🔹 Tech Stack & Expertise:
+## Tech Stack & Expertise  <img src="assets/images/Comet.png" width="30">
 
 Frontend: React.js, Next.js, TypeScript, React Native, Vue.js, AngularJS, Material UI, TailwindCSS
 
@@ -33,10 +34,10 @@ Cloud & DevOps: AWS, Google Cloud, Azure, Docker, Nginx, Microservices, CI/CD
 
 Other Skills: Git (GitHub, GitLab, Bitbucket), TDD, SaaS, Kanban, Scrum, SDLC, Chrome Extensions, N8N
  
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-
 
 <!--
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+
 ## Hi there 👋 
 **yvesas/yvesas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
