@@ -1,6 +1,6 @@
-# Hi, I'm Yves! `<img src="assets/emojis/WavingHandMediumLightSkinTone.png" width="29px">`
+# Hi, I'm Yves! <img src="assets/emojis/WavingHandMediumLightSkinTone.png" width="29px">
 
-### `<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>` A little more about me...
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> A little more about me...
 
 I've been working in the software industry for **16 years** (since 2008), building and scaling web and mobile applications.
 
@@ -8,21 +8,24 @@ I've been working in the software industry for **16 years** (since 2008), buildi
 
 🌱 Since 2019, I have been working as a consultant and freelancer, helping startups and lean teams scale their products and infrastructure. Working with companies across different industries like SaaS, fintech, e-commerce, and AI-driven platforms.
 
-### 🔹 I specialize in:
+## <img src="assets/emojis/ManTechnologistLightSkinTone.png" width="24">  I specialize in:
 
-- Full-stack development;
-- Software architecture;
-- API integrations;
-- Automation;
-- Cloud computing.
+🔹 Full-stack development
 
-#### `<img src="assets/emojis/ManTechnologistLightSkinTone.png" width="20">`
+🔹 Software architecture
 
-I thrive in fast-paced, high-growth environments and enjoy collaborating with teams that value clean code, strong engineering practices, and a user-first mindset. My entrepreneurial background and hands-on experience allow me to deliver scalable and high-impact solutions that align with business goals.
+🔹 API integrations
 
-😄 I'm passionate about AI, automation, and user engagement strategies. Always open to exciting projects, global opportunities, and connecting with like-minded professionals!
+🔹 Automation
 
-## Tech Stack & Expertise `<img src="assets/emojis/Rocket.png" width="20">`
+🔹 Cloud computing
+
+I thrive in fast-paced, high-growth environments and enjoy collaborating with teams that value clean code, strong engineering practices, and a user-first mindset. My entrepreneurial background and hands-on experience allow me to deliver scalable and high-impact solutions that align with business goals. 😄 
+
+I'm passionate about AI, automation, and user engagement strategies. Always open to exciting projects, global opportunities, and connecting with like-minded professionals! <img src="assets/emojis/NerdFace.png" width="18">  
+
+
+## Tech Stack & Expertise <img src="assets/emojis/Rocket.png" width="20">
 
 Frontend: React.js, Next.js, TypeScript, React Native, Vue.js, AngularJS, Material UI, TailwindCSS
 
