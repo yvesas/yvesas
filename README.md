@@ -20,12 +20,12 @@ I've been working in the software industry for **16 years** (since 2008), buildi
 
 🔹 Cloud computing
 
-I thrive in fast-paced, high-growth environments and enjoy collaborating with teams that value clean code, strong engineering practices, and a user-first mindset. My entrepreneurial background and hands-on experience allow me to deliver scalable and high-impact solutions that align with business goals. 😄 
+I thrive in fast-paced, high-growth environments and enjoy collaborating with teams that value clean code, strong engineering practices, and a user-first mindset. My entrepreneurial background and hands-on experience allow me to deliver scalable and high-impact solutions that align with business goals. <img src="assets/emojis/FlexedBicepsLightSkinTone.png" width="18">  
 
 I'm passionate about AI, automation, and user engagement strategies. Always open to exciting projects, global opportunities, and connecting with like-minded professionals! <img src="assets/emojis/NerdFace.png" width="18">  
 
 
-## Tech Stack & Expertise <img src="assets/emojis/Rocket.png" width="20">
+## Tech Stack & Expertise <img src="assets/emojis/Rocket.png" width="24">
 
 Frontend: React.js, Next.js, TypeScript, React Native, Vue.js, AngularJS, Material UI, TailwindCSS
 
