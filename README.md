@@ -1,6 +1,6 @@
 # Hi, I'm Yves <img src="assets/emojis/WavingHandMediumLightSkinTone.png" width="28px">
 
-## Senior Software Engineer | FullStack Developer | Tech Advisor
+## Senior Software Engineer | FullStack | Tech Advisor
 
 <p align="left">
 <a href="https://www.linkedin.com/in/yvesas" target="_blank" rel="noreferrer">
