@@ -1,7 +1,6 @@
 # Hi, I'm Yves <img src="assets/emojis/WavingHandMediumLightSkinTone.png" width="28px">
 
-## Senior Software Engineer | FullStack | Tech Advisor
-
+## Senior Software Engineer | Tech Leader | SaaS Founder | FullStack
 <p align="left">
 <a href="https://www.linkedin.com/in/yvesas" target="_blank" rel="noreferrer">
 <picture>
@@ -13,39 +12,43 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/>
 </p> 
 
-## 🚀 Key Achievements
+With 16+ years of experience building and scaling high-impact web and mobile applications, I specialize in creating robust, scalable software systems that drive business growth and elevate user experience.
 
-✨ Co-founder & CTO of Conpass (2015-2022) – Founded a SaaS startup focused on user onboarding. I built the product from scratch as the sole developer and later led a team of 4-6 engineers and 1 designer. Conpass scaled to 3M+ users across 1,000+ companies and was successfully acquired. 
+### 🧠 **Core Expertise**
 
-🤝 Consultant & Software Engineer (2019-Present) – Helping startups and lean teams scale their products and infrastructure, working across SaaS, fintech, e-commerce, and AI-driven platforms. 
-
-## <img src="assets/emojis/ManTechnologistLightSkinTone.png" width="28"> I specialize in:
-🔹 Full-stack development 🔹 Software architecture 🔹 API integrations 🔹 Automation 🔹 Cloud computing 🔹
+**Full-stack development | Software architecture | API integrations | Automation | AI-first design | Cloud-native platforms**
 
 
-## 💡 Expertise & Tech Stack
+### 🚀 **Key Milestones**
 
-- **Frontend:** React.js, Next.js, TypeScript, React Native, Vue.js, AngularJS, Material UI, Bootstrap, TailwindCSS
+→ **Co-founder & CTO of Conpass (2015–2022)** – Bootstrapped and scaled a SaaS platform for user onboarding from scratch as the sole developer. Later led a multidisciplinary team and built a platform that reached **3M+ users across 1,000+ companies**, ultimately resulting in a **successful acquisition**. We participated in accelerator programs like **Startups Factory (Portugal), InovAtiva Brasil, ACE, and Scale Up Endeavor**, which helped shape our strategic growth and market fit.
 
-- **Backend:** Node.js, Nest.js, Express, Python, FastAPI, Flask, Prisma, C#, Java, GraphQL, REST APIs, Event-Driven Architecture, Microservices, Hexagonal & Clean Architecture
+→ **Consultant & Senior Software Engineer (2019–present)** – I help startups and lean teams bring their ideas to life, acting as a bridge between product and engineering. From zero-to-one MVPs to complex platform architecture, I deliver full-stack solutions across **SaaS, fintech, e-commerce, and AI-driven platforms**.
 
-- **Mobile:** React Native, Flutter
 
-- **Databases:** PostgreSQL, MongoDB, Redis, SQL, NoSQL
+## 💻 **Tech Stack Highlights**
 
-- **Cloud & DevOps:** AWS, Google Cloud, Azure, Docker, Nginx, CI/CD, Supabase, Firebase, N8N
 
-- **Other Skills:** Git (GitHub, GitLab, Bitbucket), TDD, SaaS, Agile (Kanban, Scrum), SDLC, Chrome Extensions
+- **Frontend:** React.js, Next.js, TypeScript, React Native, Vue.js, AngularJS, TailwindCSS, Material UI
+  
+- **Backend:** Node.js, Nest.js, Python (FastAPI, Flask), GraphQL, REST APIs, Event-driven microservices
+  
+- **Databases:** PostgreSQL, MongoDB, Redis, SQL/NoSQL
+  
+- **Cloud & DevOps:** AWS, Google Cloud, Azure, Docker, CI/CD, Supabase, Firebase, N8N
+  
+- **Extras:** TDD, Clean Architecture, Git workflows, Agile/Scrum, Chrome Extensions
+  
 
-## 🎯 What Drives Me
+## 💡 What Drives Me
 
-I thrive in fast-paced, high-growth environments, collaborating with teams that value clean code, solid engineering, and a user-first mindset. My entrepreneurial background and hands-on expertise enable me to build scalable, high-impact solutions aligned with business goals.
+I thrive in dynamic, product-driven environments where technology solves real problems. With an entrepreneurial mindset and hands-on engineering expertise, I enjoy transforming ideas into scalable software that delivers measurable value.
 
-I'm passionate about AI-first architectures, automation, and user engagement strategies. Currently, I'm exploring AI-driven software architectures, offline AI solutions, and LLM-generated code quality improvements.
+Lately, I’ve been diving into **AI-first architectures**, **offline AI capabilities**, and **quality strategies for LLM-generated code**. I'm also passionate about building inclusive engineering cultures and mentoring rising developers.
 
-Always open to exciting projects, global opportunities, and connecting with like-minded professionals! 
+Let's connect — I’m always open to exciting challenges, global collaborations, and meaningful tech. 
 
-🌍🧠🚀
+🌍🚀
 
 ____
 <!--
