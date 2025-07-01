@@ -29,15 +29,17 @@ With 16+ years of experience building and scaling high-impact web and mobile app
 ## 💻 **Tech Stack Highlights**
 
 
-- **Frontend:** React.js, Next.js, TypeScript, React Native, Vue.js, AngularJS, TailwindCSS, Material UI
+- **Frontend:** React.js, Next.js, TypeScript, React Native, Vue.js, AngularJS, Material UI, Bootstrap, TailwindCSS
   
-- **Backend:** Node.js, Nest.js, Python (FastAPI, Flask), GraphQL, REST APIs, Event-driven microservices
+- **Backend:** Node.js, Nest.js, Express, Python, FastAPI, Flask, Prisma, C#, Java, GraphQL, REST APIs, Event-Driven Architecture, Microservices, Hexagonal & Clean Architecture
   
-- **Databases:** PostgreSQL, MongoDB, Redis, SQL/NoSQL
+- **Mobile:** React Native, Flutter
   
-- **Cloud & DevOps:** AWS, Google Cloud, Azure, Docker, CI/CD, Supabase, Firebase, N8N
+- **Databases:** PostgreSQL, MongoDB, Redis, SQL, NoSQL
   
-- **Extras:** TDD, Clean Architecture, Git workflows, Agile/Scrum, Chrome Extensions
+- **Cloud & DevOps:** AWS, Google Cloud, Azure, Docker, Nginx, CI/CD, Supabase, Firebase, N8N
+  
+- **Extras:** SDLC, TDD, Git workflows, Agile (Kanban, Scrum), Chrome Extensions
   
 
 ## 💡 What Drives Me
