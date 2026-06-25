@@ -1,6 +1,6 @@
 # Hi, I'm Yves <img src="assets/emojis/WavingHandMediumLightSkinTone.png" width="28px">
-
 ## Senior Software Engineer | SaaS Founder | Full-Stack Specialist | Tech Leader
+
 <p align="left">
 <a href="https://www.linkedin.com/in/yvesas" target="_blank" rel="noreferrer">
 <picture>
@@ -12,62 +12,40 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/>
 </p> 
 
-With 16+ years of experience building and scaling high-impact web and mobile applications, I specialize in creating robust, scalable software systems that drive business growth and elevate user experience.
+Senior software engineer with **16+ years** building and scaling high-impact web and mobile applications. I work full-stack with a strong focus on **backend and architecture**, and I'm at my best taking systems from **zero-to-one MVP to a platform that survives scale**.
 
 ### 🧠 **Core Expertise**
-
-**Full-stack development | Software architecture | API integrations | Automation | AI-first design | Cloud-native platforms**
-
+**Full-stack development · Software architecture · Microservices & event-driven systems · API design · AI-driven products · Cloud-native platforms**
 
 ### 🚀 **Key Milestones**
+→ **Founder & CTO — Conpass (2016–2022)**
+Built a SaaS onboarding platform from scratch as the sole developer, then assembled and led a team of 4–10 engineers to scale it to **3M+ users across 1,000+ companies** (Totvs, Linx, VTEX, Locaweb and others) — ending in a **successful acquisition by Omie**. Backed by accelerators like **Startups Factory (Portugal), InovAtiva Brasil, ACE and Scale Up Endeavor**.
 
-→ **Co-founder & CTO of Conpass (2015–2022)** – Bootstrapped and scaled a SaaS platform for user onboarding from scratch as the sole developer. Later led a multidisciplinary team and built a platform that reached **3M+ users across 1,000+ companies**, ultimately resulting in a **successful acquisition**. We participated in accelerator programs like **Startups Factory (Portugal), InovAtiva Brasil, ACE, and Scale Up Endeavor**, which helped shape our strategic growth and market fit.
-
-→ **Consultant & Senior Software Engineer (2019–present)** – I help startups and lean teams bring their ideas to life, acting as a bridge between product and engineering. From zero-to-one MVPs to complex platform architecture, I deliver full-stack solutions across **SaaS, fintech, e-commerce, and AI-driven platforms**.
-
+→ **Consultant & Tech Lead — YAS (2022–present)**
+I help startups and lean teams turn ideas into products, bridging product and engineering. Recent work spans **SaaS, EdTech, fintech and AI-driven platforms** — including a clinics CRM with a **Go** backend and an **AI chat assistant (RAG)**, an **event-driven bidding-robot** for public tenders (Node + Python), and a multi-tenant **LMS** (NestJS).
 
 ## 💻 **Tech Stack Highlights**
-
-
-- **Frontend:** React.js, Next.js, TypeScript, React Native, Vue.js, AngularJS, Material UI, Bootstrap, TailwindCSS
+- **Frontend:** React.js, Next.js, TypeScript, React Native, Vue.js, AngularJS, TailwindCSS, Material UI
   
-- **Backend:** Node.js, Nest.js, Express, Python, FastAPI, Flask, Prisma, C#, Java, GraphQL, REST APIs, Event-Driven Architecture, Microservices, Hexagonal & Clean Architecture
+- **Backend:** Node.js, Nest.js, Express, Python (FastAPI, Flask), Go, C#, Java, GraphQL, REST APIs, Event-Driven Architecture, Microservices, Hexagonal & Clean Architecture, DDD
   
 - **Mobile:** React Native, Flutter
   
 - **Databases:** PostgreSQL, MongoDB, Redis, SQL, NoSQL
   
-- **Cloud & DevOps:** AWS, Google Cloud, Azure, Docker, Nginx, CI/CD, Supabase, Firebase, N8N
+- **Cloud & DevOps:** AWS, Google Cloud, Azure, Docker, Nginx, CI/CD, GitHub Actions, Supabase, Firebase
+  
+- **AI & Automation:** LLM integration (OpenAI, Gemini), RAG, AI agents, N8N
+  
+- **AI-Assisted Dev:** Cursor, Trae, ChatGPT, Gemini & Claude — spec-driven workflow (spec → plan → development)
   
 - **Extras:** SDLC, TDD, Git workflows, Agile (Kanban, Scrum), Chrome Extensions
   
-
 ## 💡 What Drives Me
+I like environments where technology solves real problems, and I care as much about **clean architecture and reliability** as about shipping. Sixteen years in, what still moves me is turning a vague idea into something solid that holds up in production.
 
-I thrive in dynamic, product-driven environments where technology solves real problems. With an entrepreneurial mindset and hands-on engineering expertise, I enjoy transforming ideas into scalable software that delivers measurable value.
+Lately I've been deep in **AI-driven products** — chat assistants with **RAG**, **LLMs and agents** integrated into real systems, and **quality strategies for AI-generated code**. I also enjoy mentoring developers and helping teams raise their technical bar.
 
-Lately, I’ve been diving into **AI-first architectures**, **offline AI capabilities**, and **quality strategies for LLM-generated code**. I'm also passionate about building inclusive engineering cultures and mentoring rising developers.
-
-Let's connect — I’m always open to exciting challenges, global collaborations, and meaningful tech. 
-
+Let's connect — always open to exciting challenges, global collaborations, and meaningful tech. 
 🌍🚀
-
 ____
-<!--
-<p align="left">
-<a ref="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
--->
-
-<!--
-<div data-badges>
-  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/n8n-%2300C4B4.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-    <img src="https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-</div>
--->
