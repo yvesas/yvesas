@@ -12,14 +12,14 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/>
 </p> 
 
-Senior software engineer with **16+ years** building and scaling high-impact web and mobile applications. I work full-stack with a strong focus on **backend and architecture**, and I'm at my best taking systems from **zero-to-one MVP to a platform that survives scale**.
+Senior software engineer with **18+ years** building and scaling high-impact web and mobile applications. I work full-stack with a strong focus on **backend and architecture**, and I'm at my best taking systems from **zero-to-one MVP to a platform that survives scale**.
 
 ### 🧠 **Core Expertise**
 **Full-stack development · Software architecture · Microservices & event-driven systems · API design · AI-driven products · Cloud-native platforms**
 
 ### 🚀 **Key Milestones**
 → **Founder & CTO — Conpass (2016–2022)**
-Built a SaaS onboarding platform from scratch as the sole developer, then assembled and led a team of 4–10 engineers to scale it to **3M+ users across 1,000+ companies** (Totvs, Linx, VTEX, Locaweb and others) — ending in a **successful acquisition by Omie**. Backed by accelerators like **Startups Factory (Portugal), InovAtiva Brasil, ACE and Scale Up Endeavor**.
+Built a SaaS onboarding platform from scratch as the sole developer, then assembled and led a team of 1–10 engineers to scale it to **3M+ users across 1,000+ companies** (Totvs, Linx, VTEX, Locaweb and others) — ending in a **successful acquisition by Omie**. Backed by accelerators like **Startups Factory (Portugal), InovAtiva Brasil, ACE and Scale Up Endeavor**.
 
 → **Consultant & Tech Lead — YAS (2022–present)**
 I help startups and lean teams turn ideas into products, bridging product and engineering. Recent work spans **SaaS, EdTech, fintech and AI-driven platforms** — including a clinics CRM with a **Go** backend and an **AI chat assistant (RAG)**, an **event-driven bidding-robot** for public tenders (Node + Python), and a multi-tenant **LMS** (NestJS).
